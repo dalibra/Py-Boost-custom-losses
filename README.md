@@ -28,11 +28,11 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 <tbody>
   <tr>
     <td><b>Value</b></td>
-    <td>23.35</td>
-    <td>86.66</td>
-    <td><b>43.35</b></td>
-    <td>45.23</td>
-    <td>45.23</td>
+    <td>1139</td>
+    <td>1139</td>
+    <td><b>1140</b></td>
+    <td>1915</td>
+    <td>1152</td>
   </tr>
 </tbody>
 </table>
@@ -42,13 +42,80 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 ### House Prices
 <p align="center"><img src="pics/house_prices.jpg" width="800" /></p>
 
+<table>
+<thead>
+  <tr>
+    <th>Loss</th>
+    <th>Pseudo Huber</th>
+    <th>Huber</th>
+    <th>MSLE</th>
+    <th>MAE</th>
+    <th>LogCosh</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>Value</b></td>
+    <td>5476</td>
+    <td>5889</td>
+    <td><b>5800</b></td>
+    <td>12687</td>
+    <td>7356</td>
+  </tr>
+</tbody>
+</table>
+
 ### Life Expectancy
 <p align="center"><img src="pics/life_expectancy.jpg" width="800" /></p>
+
+<table>
+<thead>
+  <tr>
+    <th>Loss</th>
+    <th>Pseudo Huber</th>
+    <th>Huber</th>
+    <th>MSLE</th>
+    <th>MAE</th>
+    <th>LogCosh</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>Value</b></td>
+    <td>1.17</td>
+    <td>1.16</td>
+    <td><b>1.13</b></td>
+    <td>1.20</td>
+    <td>1.34</td>
+  </tr>
+</tbody>
+</table>
 
 ### Car Price Prediction Challenge
 <p align="center"><img src="pics/car price.jpg" width="800" /></p>
 
-
+<table>
+<thead>
+  <tr>
+    <th>Loss</th>
+    <th>Pseudo Huber</th>
+    <th>Huber</th>
+    <th>MSLE</th>
+    <th>MAE</th>
+    <th>LogCosh</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>Value</b></td>
+    <td>5872</td>
+    <td>5941</td>
+    <td><b>5868</b></td>
+    <td>12691</td>
+    <td>6892</td>
+  </tr>
+</tbody>
+</table>
 
 
 ## Team 13:
