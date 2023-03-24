@@ -1,1 +1,1 @@
-# Py-Boost-custom-losses
+# Py-Boost custom losses
