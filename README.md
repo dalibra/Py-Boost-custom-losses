@@ -5,6 +5,10 @@
 
 The repository for final project at [ML course](https://github.com/adasegroup/ML2023_lectures) at Skoltech - "Several custom losses implementation for the median regression task in Py-Boost".
 
+КРАТКАЯ СВОДКА
+
+## Usage
+НАПИСАТЬ, КАК ЗАПУСАТЬ КОД
 
 ## Datasets:
 - [Allstate Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/data)
@@ -12,8 +16,9 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 - [Life Expectancy](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 - [Car Price Prediction Challenge](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge?select=car_price_prediction.csv)
 
+
 ## Results
-че то там че то там
+ЧЕ ТО ТАМ ЧЕ ТО ТАМ
 
 ### Allstate
 
