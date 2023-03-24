@@ -17,19 +17,21 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 <table>
 <thead>
   <tr>
-    <th></th>
-    <th>AE Reconstruct</th>
-    <th>AE Raw Decode</th>
-    <th><b>AE + W2GN</b></th>
-    <th><a href="https://github.com/joeylitalien/celeba-gan-pytorch">WGAN</a></th>
+    <th>Loss</th>
+    <th>Pseudo Huber</th>
+    <th>Huber</th>
+    <th>MSLE</th>
+    <th>MAE</th>
+    <th>LogCosh</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><b>FID Score</b></td>
+    <td><b>Value</b></td>
     <td>23.35</td>
     <td>86.66</td>
     <td><b>43.35</b></td>
+    <td>45.23</td>
     <td>45.23</td>
   </tr>
 </tbody>
