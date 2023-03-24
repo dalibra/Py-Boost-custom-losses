@@ -40,7 +40,6 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 <p align="center"><img src="pics/allstate.png" width="800" /></p>
 
 ### House Prices
-<p align="center"><img src="pics/house_prices.jpg" width="800" /></p>
 
 <table>
 <thead>
@@ -65,8 +64,11 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 </tbody>
 </table>
 
+<p align="center"><img src="pics/house_prices.jpg" width="800" /></p>
+
+
+
 ### Life Expectancy
-<p align="center"><img src="pics/life_expectancy.jpg" width="800" /></p>
 
 <table>
 <thead>
@@ -91,8 +93,11 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 </tbody>
 </table>
 
+<p align="center"><img src="pics/life_expectancy.jpg" width="800" /></p>
+
+
+
 ### Car Price Prediction Challenge
-<p align="center"><img src="pics/car price.jpg" width="800" /></p>
 
 <table>
 <thead>
@@ -116,6 +121,10 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
   </tr>
 </tbody>
 </table>
+
+<p align="center"><img src="pics/car price.jpg" width="800" /></p>
+
+
 
 
 ## Team 13:
