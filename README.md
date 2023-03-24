@@ -14,10 +14,13 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 
 ### Allstate
 <p align="center"><img src="pics/allstate.png" width="800" /></p>
+
 ### House Prices
 <p align="center"><img src="pics/house_prices.jpg" width="800" /></p>
+
 ### Life Expectancy
 <p align="center"><img src="pics/life_expectancy.jpg" width="800" /></p>
+
 ### Car Price Prediction Challenge
 <p align="center"><img src="pics/car price.jpg" width="800" /></p>
 
