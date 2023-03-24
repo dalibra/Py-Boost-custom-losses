@@ -1,3 +1,6 @@
+# TODO: обновить reqiriments.py, написать, как запускать код, вставть заключение и промежуточные пару предложений с репорта
+
+
 # Py-Boost custom losses
 
 The repository for final project at [ML course](https://github.com/adasegroup/ML2023_lectures) at Skoltech - "Several custom losses implementation for the median regression task in Py-Boost".
