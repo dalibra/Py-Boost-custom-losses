@@ -5,7 +5,11 @@
 
 The repository for final project at [ML course](https://github.com/adasegroup/ML2023_lectures) at Skoltech - "Several custom losses implementation for the median regression task in Py-Boost".
 
-КРАТКАЯ СВОДКА
+Modern gradient boosting toolkits are very complex and are written in low-level programming languages. As a result, 
+1) It is hard to customize them to suit one’s needs 
+2) New ideas and methods are not easy to implement 
+3) It is difficult to understand how they work. 
+[Py-boost](https://github.com/sb-ai-lab/Py-Boost) is a Python-based gradient boosting library which aims at overcoming the aforementioned problems. Py-boost can be easily customized. In this project we implemented several custom losses for the median regression task and compared resulls on different dataset.
 
 ## Usage
 НАПИСАТЬ, КАК ЗАПУСАТЬ КОД
