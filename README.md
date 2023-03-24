@@ -13,6 +13,28 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 че то там че то там
 
 ### Allstate
+
+<table>
+<thead>
+  <tr>
+    <th></th>
+    <th>AE Reconstruct</th>
+    <th>AE Raw Decode</th>
+    <th><b>AE + W2GN</b></th>
+    <th><a href="https://github.com/joeylitalien/celeba-gan-pytorch">WGAN</a></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><b>FID Score</b></td>
+    <td>23.35</td>
+    <td>86.66</td>
+    <td><b>43.35</b></td>
+    <td>45.23</td>
+  </tr>
+</tbody>
+</table>
+
 <p align="center"><img src="pics/allstate.png" width="800" /></p>
 
 ### House Prices
