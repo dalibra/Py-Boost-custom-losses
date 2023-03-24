@@ -10,7 +10,7 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 - [Car Price Prediction Challenge](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge?select=car_price_prediction.csv)
 
 ## Results:
-![a](allstate.png)
+![allstate.png](allstate.png)
 
 ![b](house_prices.jpg)
 
