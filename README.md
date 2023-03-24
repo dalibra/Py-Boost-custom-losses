@@ -9,6 +9,7 @@ Modern gradient boosting toolkits are very complex and are written in low-level 
 1) It is hard to customize them to suit one’s needs 
 2) New ideas and methods are not easy to implement 
 3) It is difficult to understand how they work. 
+
 [Py-boost](https://github.com/sb-ai-lab/Py-Boost) is a Python-based gradient boosting library which aims at overcoming the aforementioned problems. Py-boost can be easily customized. In this project we implemented several custom losses for the median regression task and compared resulls on different dataset.
 
 ## Usage
