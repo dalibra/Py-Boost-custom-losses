@@ -10,15 +10,11 @@ The repository for final project at [ML course](https://github.com/adasegroup/ML
 - [Car Price Prediction Challenge](https://www.kaggle.com/datasets/deepcontractor/car-price-prediction-challenge?select=car_price_prediction.csv)
 
 ## Results:
-![a](pics/allstate.png)
+<p align="center"><img src="pics/allstate.png" width="450" /></p>
 
-![b](house_prices.jpg)
-
-![c](life expectancy.jpg)
-
-![d](car price.jpg)
-
-
+<p align="center"><img src="pics/house_prices.jpg" width="450" /></p>
+<p align="center"><img src="pics/life expectancy.jpgg" width="450" /></p>
+<p align="center"><img src="pics/car price.jpg" width="450" /></p>
 
 
 
