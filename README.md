@@ -12,6 +12,13 @@ Modern gradient boosting toolkits are very complex and are written in low-level 
 
 [Py-boost](https://github.com/sb-ai-lab/Py-Boost) is a Python-based gradient boosting library which aims at overcoming the aforementioned problems. Py-boost can be easily customized. In this project we implemented several custom losses for the median regression task and compared resulls on different datasets.
 
+## Installation 
+
+```bash
+git clone https://github.com/dalibra/Py-Boost-custom-losses.git && cd Py-Boost-custom-losses
+pip install -r requirements.txt
+```
+
 ## Usage
 НАПИСАТЬ, КАК ЗАПУСАТЬ КОД
 
