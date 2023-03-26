@@ -37,7 +37,7 @@ pip install -r requirements.txt
 <table>
 <thead>
   <tr>
-    <th>Loss</th>
+    <th> </th>
     <th>Pseudo Huber</th>
     <th>Huber</th>
     <th>MSLE</th>
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 </thead>
 <tbody>
   <tr>
-    <td><b>Value</b></td>
+    <td><b>Test loss</b></td>
     <td>1139</td>
     <td>1139</td>
     <td><b>1140</b></td>
