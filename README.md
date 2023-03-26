@@ -146,7 +146,7 @@ pip install -r requirements.txt
 
 <p align="center"><img src="pics/car price.jpg" width="800" /></p>
 
-<p align="center"><img src="pics/delta_car_prices.jpg" width="800" /></p>
+<p align="center"><img src="pics/delta_car_price.jpg" width="800" /></p>
 
 
 ## Team 13:
