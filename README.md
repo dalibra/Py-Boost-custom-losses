@@ -48,9 +48,9 @@ pip install -r requirements.txt
 <tbody>
   <tr>
     <td><b>Test loss</b></td>
-    <td>1139</td>
-    <td>1139</td>
-    <td><b>1140</b></td>
+    <td><b>1139</b></td>
+    <td><b>1139</b></td>
+    <td>1140</td>
     <td>1915</td>
     <td>1152</td>
   </tr>
@@ -75,9 +75,9 @@ pip install -r requirements.txt
 <tbody>
   <tr>
     <td><b>Test loss</b></td>
-    <td>5476</td>
+    <td><b>5476</b></td>
     <td>5889</td>
-    <td><b>5800</b></td>
+    <td>5800</td>
     <td>12687</td>
     <td>7356</td>
   </tr>
