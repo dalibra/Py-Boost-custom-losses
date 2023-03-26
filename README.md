@@ -144,7 +144,7 @@ pip install -r requirements.txt
 
 <p align="center"><img src="pics/delta_allstate.jpg" width="800" /></p>
 
-<p align="center"><img src="pics/delta_house_prices.jpg" width="800" /></p>
+<p align="center"><img src="pics/delta_house_prices.png" width="800" /></p>
 
 <p align="center"><img src="pics/delta_life_expectancy.jpg" width="800" /></p>
 
