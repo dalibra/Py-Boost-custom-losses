@@ -15,13 +15,19 @@ Modern gradient boosting toolkits are very complex and are written in low-level 
 ## Installation 
 
 ```bash
-git clone https://github.com/dalibra/Py-Boost-custom-losses.git && cd Py-Boost-custom-losses
+git clone https://github.com/dalibra/Py-Boost-custom-losses.git
+```
+On local machine:
+```bash
 pip install -r requirements.txt
+```
+In google colab:
+```
+pip install py-boost==0.4.1
 ```
 
 ## Usage
-НАПИСАТЬ, КАК ЗАПУСАТЬ КОД
-
+All the losses are implenented in `utils.py` as separate classes. You can find the execution in `experiments.ipynb`.
 ## Datasets:
 - [Allstate Claims Severity](https://www.kaggle.com/competitions/allstate-claims-severity/data)
 - [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data)
