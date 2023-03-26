@@ -50,7 +50,7 @@ pip install -r requirements.txt
     <td><b>Test loss</b></td>
     <td><b>1139</b></td>
     <td><b>1139</b></td>
-    <td>1140</td>
+    <td><b>1140</b></td>
     <td>1915</td>
     <td>1152</td>
   </tr>
