@@ -59,8 +59,6 @@ pip install -r requirements.txt
 
 <p align="center"><img src="pics/allstate.png" width="800" /></p>
 
-<p align="center"><img src="pics/delta_allstate.jpg" width="800" /></p>
-
 ### House Prices
 
 <table>
@@ -87,8 +85,6 @@ pip install -r requirements.txt
 </table>
 
 <p align="center"><img src="pics/house_prices.png" width="800" /></p>
-
-<p align="center"><img src="pics/delta_house_prices.jpg" width="800" /></p>
 
 ### Life Expectancy
 
@@ -117,8 +113,6 @@ pip install -r requirements.txt
 
 <p align="center"><img src="pics/life_expectancy.jpg" width="800" /></p>
 
-<p align="center"><img src="pics/delta_life_expectancy.jpg" width="800" /></p>
-
 ### Car Price Prediction Challenge
 
 <table>
@@ -145,6 +139,14 @@ pip install -r requirements.txt
 </table>
 
 <p align="center"><img src="pics/car price.jpg" width="800" /></p>
+
+### Dependence on delta for each dataset
+
+<p align="center"><img src="pics/delta_allstate.jpg" width="800" /></p>
+
+<p align="center"><img src="pics/delta_house_prices.jpg" width="800" /></p>
+
+<p align="center"><img src="pics/delta_life_expectancy.jpg" width="800" /></p>
 
 <p align="center"><img src="pics/delta_car_price.jpg" width="800" /></p>
 
