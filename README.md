@@ -75,11 +75,11 @@ pip install -r requirements.txt
 <tbody>
   <tr>
     <td><b>Test loss</b></td>
-    <td><b>5476</b></td>
-    <td>5889</td>
-    <td>5800</td>
-    <td>12687</td>
-    <td>7356</td>
+    <td>22818</td>
+    <td>58577</td>
+    <td><b>16914</b></td>
+    <td>62387</td>
+    <td>60336</td>
   </tr>
 </tbody>
 </table>
