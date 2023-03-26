@@ -84,7 +84,7 @@ pip install -r requirements.txt
 </tbody>
 </table>
 
-<p align="center"><img src="pics/house_prices.jpg" width="800" /></p>
+<p align="center"><img src="pics/house_prices.png" width="800" /></p>
 
 
 
