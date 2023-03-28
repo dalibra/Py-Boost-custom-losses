@@ -143,7 +143,7 @@ All the losses are implenented in `utils.py` as separate classes. You can find t
 
 <p align="center"><img src="pics/car price.jpg" width="800" /></p>
 
-### Dependence on delta for Huber and pseoudo Huber losses for each dataset
+### Dependence on delta for Huber and Pseudo Huber losses for each dataset
 
 <p align="center"><img src="pics/delta_allstate.jpg" width="800" /></p>
 
