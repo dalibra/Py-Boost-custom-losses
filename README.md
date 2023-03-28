@@ -33,7 +33,15 @@ All the losses are implenented in `utils.py` as separate classes. You can find t
 
 
 ## Results
-ЧЕ ТО ТАМ ЧЕ ТО ТАМ
+- As expected, MAE is always a bad choice, maybe with
+the exception of the Life Expectancy dataset (there the
+scale of the target is suitable for this loss)
+- MSLE always performs the best - astonishing results on
+the House Prices dataset illustrate this unequivocally
+- The losses for Huber/Pseudo Huber mostly tend to
+decrease with the larger values of delta - although the
+plots for House Prices and Life Expectancy show some
+nontrivial dependencies
 
 ### Allstate
 
