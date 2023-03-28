@@ -1,6 +1,3 @@
-## TODO: обновить requirements.py, написать, как запускать код, вставть заключение и промежуточные пару предложений с репорта; поменять в юпитерноутбуке названия датасетов на те, что в папке /data, указать норм путь к ней, ~~добавть в папку allstate (файлы >25 мб напрямую не грузятся)~~.
-
-
 # Py-Boost custom losses
 
 The repository for final project at [ML course](https://github.com/adasegroup/ML2023_lectures) at Skoltech - "Several custom losses implementation for the median regression task in Py-Boost".
@@ -36,7 +33,15 @@ All the losses are implenented in `utils.py` as separate classes. You can find t
 
 
 ## Results
-ЧЕ ТО ТАМ ЧЕ ТО ТАМ
+- As expected, MAE is always a bad choice, maybe with
+the exception of the Life Expectancy dataset (there the
+scale of the target is suitable for this loss)
+- MSLE always performs the best - astonishing results on
+the House Prices dataset illustrate this unequivocally
+- The losses for Huber/Pseudo Huber mostly tend to
+decrease with the larger values of delta - although the
+plots for House Prices and Life Expectancy show some
+nontrivial dependencies
 
 ### Allstate
 
@@ -146,7 +151,7 @@ All the losses are implenented in `utils.py` as separate classes. You can find t
 
 <p align="center"><img src="pics/car price.jpg" width="800" /></p>
 
-### Dependence on delta for each dataset
+### Dependence on delta for Huber and Pseudo Huber losses for each dataset
 
 <p align="center"><img src="pics/delta_allstate.jpg" width="800" /></p>
 
