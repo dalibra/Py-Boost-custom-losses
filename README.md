@@ -1,6 +1,3 @@
-## TODO: обновить requirements.py, написать, как запускать код, вставть заключение и промежуточные пару предложений с репорта; поменять в юпитерноутбуке названия датасетов на те, что в папке /data, указать норм путь к ней, ~~добавть в папку allstate (файлы >25 мб напрямую не грузятся)~~.
-
-
 # Py-Boost custom losses
 
 The repository for final project at [ML course](https://github.com/adasegroup/ML2023_lectures) at Skoltech - "Several custom losses implementation for the median regression task in Py-Boost".
